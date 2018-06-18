@@ -1,0 +1,30 @@
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+
+.biografia{
+  background-color: antiquewhite;
+  width:70%;
+  display: inline-block;
+}
+.biografia p{
+  padding: 5%;
+}
+.tabla{
+background-color: bisque;
+display: inline-block;
+vertical-align: top;
+}
+.tbl{
+  border: 1px solid black;
+}
+.tbl th{
+  background-color: pink;
+}
+.tbl tbody tr :first-child{
+  text-align: center;
+}
+header h1{
+  text-align: center;
+}
